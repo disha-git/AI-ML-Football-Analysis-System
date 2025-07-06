@@ -130,8 +130,8 @@ AI-ML-Football-Analysis/
 
 <h2>📬 Connect with Me</h2>
 <ul>
-  <li>🔗 <a href="https://www.linkedin.com/in/disha-dasgupta/" target="_blank">LinkedIn – Rupjit Shil</a></li>
-  <li>🐙 <a href="https://github.com/disha-git" target="_blank">GitHub – rohann-hub</a></li>
+  <li>🔗 <a href="https://www.linkedin.com/in/disha-dasgupta/" target="_blank">LinkedIn – Disha Dasgupta</a></li>
+  <li>🐙 <a href="https://github.com/disha-git" target="_blank">GitHub – disha-git</a></li>
 </ul>
 
 <hr>
